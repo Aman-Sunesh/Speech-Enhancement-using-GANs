@@ -1,0 +1,9 @@
+torch
+torchaudio
+numpy
+matplotlib
+tqdm
+transformers
+jiwer
+soundfile
+gradio
